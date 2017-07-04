@@ -1,0 +1,74 @@
+body {
+    background: #f9f9f9;        
+}
+
+h1{
+    font-family: 'Hadlee', cursive;
+}
+
+header {
+    background-color: #F0F0F0;
+    height: 100px;
+}
+
+header ul li{
+    list-style: none;
+    font-family: 'Arimo';
+    font-size: 30px;
+    padding-top: 23px;
+}
+
+.centralizado {
+    text-align: center;
+}
+
+input{
+    margin: 5px;
+}
+
+select {
+    padding: 2px;
+}
+
+.alin_direita {
+    text-align: right;
+}
+
+.alin_esquerda {
+    text-align: left;
+}
+
+.style-footer {
+    width: 100%;
+    display: table;
+    background-color: #F0F0F0;
+    padding-top: 35px;
+    position: absolute;
+    bottom: 0;
+}
+
+.footer {
+    margin-bottom: 10px;
+}
+
+ {
+    text-decoration-style: none;
+}
+
+#link_footer_1 ul{
+    list-style: none;
+    
+}
+
+#link_footer_2 ul{
+    list-style: none;
+    
+}
+
+.nav-footer {
+    display: inline;
+}
+
+.layout {
+    display: flex;
+}
